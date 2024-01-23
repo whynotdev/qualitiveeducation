@@ -1,0 +1,337 @@
+.logo{
+  width: 100px;
+  height: 100px;
+}
+.hero1{
+  background-image: url(https://preview.colorlib.com/theme/universityedu/assets/img/hero/h1_hero1.jpg.webp);
+  height: 100vh;
+  background-repeat: no-repeat;
+  /* background-color: rgb(243, 219, 186); */
+  background-size: cover;
+}
+.hero2{
+  background-color: rgb(244, 228, 206);
+  height: 900px !important;
+
+}
+.h11{
+  font-size: 55px;
+  font-weight: bold;
+  
+}
+.sp1{
+  font-size: 25px;
+  font-weight: 500;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.a12{
+  font-size: 20px !important;
+  font-weight: 500 !important;
+}
+.p1{
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+}
+.smscreen{
+  margin-top: 10% !important;
+}
+nav li{
+  margin: 10px;
+  font-weight: bold;
+  padding: 5px;
+  font-size: 25px;
+}
+@media only screen and (min-width:390px) and ( max-width:767px) {
+  h1{
+    font-size: 30px !important;
+    margin-left: 10px;
+    color: red;
+  
+  }
+  .king{
+    background-position: center;
+  }
+  /* .rrr{
+    list-style-position:inside;
+    
+  } */
+  .lol1{
+    height: 100vh !important;
+  }
+  .lol2{
+  
+  }
+  .hero2Pages{
+    /* margin-top: 20px; */
+    font-size: 20px !important;
+    line-height: 20px !important;
+    font-weight: 500;
+  }
+  
+  p{
+    font-size: 15px !important;
+  }
+  span{
+    margin-left: 10px;
+  }
+  .smscreen{
+    margin-top: 60% !important;
+  }
+.hero1{
+  background-size:auto;
+  height: 100vh !important;
+  background-position: center;
+ 
+}
+}
+@media only screen and (min-width:1024px){
+  .hero1{
+    background-position: center;
+
+  }
+  .smscreen{
+    justify-content: center;
+  }
+
+}
+@media only screen and (min-width:768px) and ( max-width:1024px) {
+  .hero1{
+    
+    background-size:auto;
+    height: 100vh !important;
+    background-position: center;
+    margin-left: 5px;
+   
+  }
+  .smscreen {
+    margin-top: 35% !important;
+  }
+  .hero2Pages{
+    margin-top: 20px;
+    font-size: 25px !important;
+    line-height: 25px !important;
+    font-weight: 500;
+  }
+
+}
+.hero2Pages{
+  margin-top: 25px;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 500;
+}
+.hero2Pages1{
+  font-size: 25px;
+  line-height: 35px;
+}
+.hero2anchor{
+  
+  font-size: 25px;
+
+}
+.hero3an{
+  font-size: 30px;
+  text-decoration: none;
+  font-weight: bold;
+
+}
+.hero3cd:hover{
+border: 2px solid green;
+
+}
+.hero3an:hover{
+  color: green;
+}
+img{
+  opacity: 0.9;
+}
+img:hover{
+ opacity: 1;
+}
+.partnerimg{
+  background-color: rgb(239, 229, 216);
+}
+.rrr{
+  list-style: none;
+  font-size: 15px;
+  font-weight: 300;
+}
+li{
+  margin: 10px;
+  font-size: 20px;
+}
+.ftimg{
+  margin-left: 70px;
+
+}
+.social-icons {
+  margin-top: 10px; /* Adjust as needed */
+}
+
+.social-icon {
+  margin-right: 10px; /* Adjust as needed */
+}
+.image-slider {
+  width: 100%; /* Set the width of the slider */
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slider-wrapper {
+  display: flex;
+  animation: slide 10s linear infinite; /* Change the duration and timing function as needed */
+}
+
+.slider-content {
+  display: flex;
+}
+
+.slider-content img {
+  margin-right: 20px; /* Adjust spacing between images */
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(50%); /* Start from center */
+  }
+  100% {
+    transform: translateX(-50%); /* Slide all images by the width of the parent container */
+  }
+}
+.gg{
+  height: 500px;
+}
+.king{
+  background-image: url(https://preview.colorlib.com/theme/universityedu/assets/img/hero/h2_hero1.jpg.webp);
+  height: 350px;
+background-repeat: no-repeat;
+background-position: top top;
+}
+.map1{
+  width: 100%;
+  height: 450px;
+  border: 2px solid rgb(235, 153, 153);
+}
+.map01{
+  margin-top: 10%;
+  background-color: rgb(243, 236, 236);
+}
+a:hover{
+  color: green;
+font-weight: bolder;
+}
+.pot{
+  border-radius: 50%;
+  background-color: white;
+  border: 1px solid black;
+}
+.pot1{
+  background-color: rgb(208, 225, 208) !important;
+}
+.pot1:hover{
+background-color: rgb(136, 199, 136) !important;
+}
+
+.pot:hover{
+  background-color: green;
+  border: none;
+}
+.gf{
+  color: rgb(11, 9, 9);
+}
+.gf:hover{
+  color: white;
+}
+.fg:hover{
+  color: green;
+}
+
+.displayin{
+  font-size: 25px;
+  font-weight: bold;
+}
+/* src/components/CoursePage.css */
+
+.course-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.heading {
+  color: #333;
+}
+
+.course-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.course-card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  width: 300px;
+  margin: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+}
+
+.course-header {
+  background-color: #e90839;
+  color: #fff;
+  padding: 10px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.course-name {
+  margin: 0;
+}
+
+.course-content {
+  padding: 20px;
+}
+
+.course-description {
+  color: #666;
+}
+
+.course-footer {
+  margin-top: auto;
+  text-align: center;
+  padding: 10px;
+}
+
+.start-button {
+  background-color: #0be994;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.start-button:hover {
+  background-color: #d30b44;
+}
+.teacher{
+  font-size: 18px;
+  text-align: justify;
+}
+.about li{
+padding: 10px;
+text-align: justify;
+}
+.about1{
+  text-align: justify;
+  font-size: 20px;
+  text-indent: 25px;
+}
