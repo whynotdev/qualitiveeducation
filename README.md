@@ -1,6 +1,6 @@
 In this Project i used
 packages - bootstrap,fonawesome,react-dom etc
-This platoform Ensure to provide qualititave education for all.
+This platform Ensure to provide qualititave education for all.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
